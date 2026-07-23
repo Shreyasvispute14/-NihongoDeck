@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886895679168",
+    "project_id": "nihongodeck-97ada",
+    "storage_bucket": "nihongodeck-97ada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886895679168:android:2e4d2d75313424b43aff25",
+        "android_client_info": {
+          "package_name": "com.example.nihongo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoJG7bilX1Nsrt73D4W744rn9e8Hz0_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
